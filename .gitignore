@@ -137,5 +137,5 @@ eb-package.zip
 static/
 
 # venv
-*./coursevenv
+course/.coursevenv/
 *.gitignore
